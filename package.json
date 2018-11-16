@@ -1,0 +1,30 @@
+{
+  "name": "compound-word-splitter",
+  "version": "1.0.0",
+  "description": "Split any amount of english words joined into one word into an array of words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtara1/compound-word-splitter.git"
+  },
+  "keywords": [
+    "nlp",
+    "split",
+    "compound",
+    "word",
+    "english"
+  ],
+  "author": "jtara1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtara1/compound-word-splitter/issues"
+  },
+  "homepage": "https://github.com/jtara1/compound-word-splitter#readme",
+  "dependencies": {
+    "check-word": "^1.1.0",
+    "lodash": "^4.17.11"
+  }
+}
